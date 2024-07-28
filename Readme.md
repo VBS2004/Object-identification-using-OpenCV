@@ -17,23 +17,19 @@ height="3.676388888888889in"}
 +===================================+===================================+
 +-----------------------------------+-----------------------------------+
 
-> ![](Readme/media/image3.png){width="3.125in"
-> height="1.75in"}
+> ![](Readme/media/image3.png)
 >
 > 4\. A new window appears
 >
-> ![](Readme/media/image4.png){width="3.0930555555555554in"
-> height="1.7916655730533684in"}
+> ![](Readme/media/image4.png)
 >
 > 5\. When you need to check with other image press 'q' in keyboard
 >
 > 6\. Then upload another image
 
-![](Readme/media/image5.png){width="6.5in"
-height="3.6777777777777776in"}
+![](Readme/media/image5.png)
 
-![](Readme/media/image6.png){width="7.1152766841644794in"
-height="6.910395888013999in"}
+![](Readme/media/image6.png)
 
 +-----------------------------------+-----------------------------------+
 | 7\.                               | > You can also capture an image   |
