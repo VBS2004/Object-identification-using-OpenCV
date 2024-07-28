@@ -2,15 +2,13 @@
 
 > 1\. Run the project using Pixserve application
 
-![](Readme/media/image1.png){width="6.5in"
-height="3.613888888888889in"}
+![](Readme/media/image1.png)
 
 > 2\. Click on it
 >
 > Browse window appears
 
-![](Readme/media/image2.png){width="6.5in"
-height="3.676388888888889in"}
+![](Readme/media/image2.png)
 
 +-----------------------------------+-----------------------------------+
 | 3\.                               | > Then select the image           |
